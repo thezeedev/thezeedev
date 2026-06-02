@@ -1,8 +1,5 @@
 ## Hi! I'm Zee :)
 
-<!--
-**thezeedev/thezeedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Software Developer & Data Scientist.
 I have a certificate of completion in AI, Machine Learning & Data Science Bootcamp, and I'm currently building projects
 while continuing to learn and improve my skills.
